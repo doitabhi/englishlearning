@@ -24,5 +24,18 @@
             "How has technology impacted our lives?",
             "What are examples of technological innovations?"
         ]
+    },
+    {
+        "name": "New", 
+        "passage": "New",
+        "words": [
+            {"word": "technology", "meaning": "application of scientific knowledge"},
+            {"word": "innovations", "meaning": "new ideas or methods"},
+            {"word": "revolutionized", "meaning": "completely changed"}
+        ],
+        "questions": [
+            "How has technology impacted our lives?",
+            "What are examples of technological innovations?"
+        ]
     }
 ]
