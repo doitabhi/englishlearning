@@ -10,10 +10,10 @@
         "questions": [
             "What does the environment include?",
             "Why is it important to protect plants and animals?"
-        ]abhuppal
+        ]
     },
     {
-        "name": "Technology",
+        "name": "Technology", 
         "passage": "Technology has revolutionized the way we live and work. Innovations like computers and smartphones have made life easier.",
         "words": [
             {"word": "technology", "meaning": "application of scientific knowledge"},
@@ -27,9 +27,7 @@
     },
     {
         "name": "Having a Mentor",
-        "passage": "Having a mentor is one of the most valuable relationships for personal and professional growth. A mentor provides     
-        guidance, shares their experiences, and helps navigate challenges. This relationship fosters learning, builds confidence, and   
-        often accelerates success.",
+        "passage": "Having a mentor is one of the most valuable relationships for personal and professional growth. A mentor provides guidance, shares their experiences, and helps navigate challenges. This relationship fosters learning, builds confidence, and often accelerates success.",
         "words": [
             {"word": "mentor", "meaning": "an experienced and trusted advisor"},
             {"word": "guidance", "meaning": "advice or information aimed at resolving a problem or difficulty"},
@@ -41,7 +39,6 @@
             "What are the benefits of having a mentor?",
             "How does a mentor help in navigating challenges?",
             "Why is confidence important in personal and professional growth?"
-    ]
-}
-
+        ]
+    }
 ]
