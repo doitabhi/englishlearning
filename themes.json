@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Environment",
+        "passage": "The environment is the natural world that surrounds us. It includes air, water, plants, and animals.",
+        "words": [
+            {"word": "environment", "meaning": "natural surroundings"},
+            {"word": "plants", "meaning": "living things that grow in the soil"},
+            {"word": "animals", "meaning": "living beings that move and breathe"}
+        ],
+        "questions": [
+            "What does the environment include?",
+            "Why is it important to protect plants and animals?"
+        ]
+    },
+    {
+        "name": "Technology",
+        "passage": "Technology has revolutionized the way we live and work. Innovations like computers and smartphones have made life easier.",
+        "words": [
+            {"word": "technology", "meaning": "application of scientific knowledge"},
+            {"word": "innovations", "meaning": "new ideas or methods"},
+            {"word": "revolutionized", "meaning": "completely changed"}
+        ],
+        "questions": [
+            "How has technology impacted our lives?",
+            "What are examples of technological innovations?"
+        ]
+    }
+]
